@@ -1,0 +1,150 @@
+header {
+	margin: 0px 10px 0px 30x;
+	background-color:#00858c;
+	padding: 10px 200px 1px 100px;
+	text-align: center;
+}
+
+#tableall {
+	display: table;
+	border-spacing: 5px;
+}
+
+#tablerow {
+	display: table-row;
+}
+
+nav {
+	display: table-cell;
+	vertical-align:top;
+	padding: 0px 5px 10px 300px;
+	text-decoration: none;
+}
+nav ul {
+list-style-type:none;
+background-color: #efe5d0;
+padding: 50px 30px 20px 10px;
+margin: 1px
+
+}
+
+nav ul li a{
+	font-family: fantasy;
+	padding: 0px 0px 30px 0px;
+	margin: 0px 0px 0px 25px;
+    text-decoration: none;
+    font-size: 53px;
+    color:#a56ea5;
+	display: block;
+	text-align: center;
+}
+
+nav ul li audio {
+	padding: 20px 0px 30px 21px;
+	margin: 0px 0px 0px 0px;
+	
+}
+nav ul li a:hover {
+    color: #01a8d2;
+}
+
+section {
+	display: table-cell;
+	vertical-align:top;
+}
+section img{
+	background-color: #efe5d0;
+	padding: 4px 10px 20px 50px;
+    margin: 1px;
+
+}
+#will {
+	display: table-cell;
+	vertical-align:top;
+	margin: 30px 40px 30x 40px;
+	background: #efe5d0;
+	font-size: 105%;
+	padding: 1px 20px 40px 20px;
+}
+
+#ser1{
+	display: table-cell;
+	vertical-align:top;
+	background: #efe5d0;
+	font-size: 90%;
+	padding: 10px 10px 10px 10px;
+	
+
+}
+
+footer {
+	color: black;     
+	text-align:       center;
+	padding:          15px;
+	margin: 0px 315px 0px 315px;
+	font-size:        90%;
+  }
+
+  body {
+	background: url(image/fon.jpg);
+	font-family:      "Aria black", serif;
+	font-size:        small;
+	margin:           0px;
+
+  }
+
+  h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	border: 0pc;
+  }
+  h2 ,td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+  }
+
+  P ,th {
+	  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	  font-size: 20px;
+  }
+  
+  th,td {
+	  padding: 5px;
+  }
+
+  #run{
+	  padding: 20px 120px 20px 90px;
+  }
+ #run1{
+	 width: 350px;
+	 float: right; 
+ }
+
+ #cled { 
+	font-family: fantasy;
+	text-decoration: none;
+ }
+
+ #cled1 { 
+	font-family: fantasy;
+	text-decoration: none;
+	text-align: right;
+padding: 10px 20px 30px 370px;
+ }
+
+ a:hover {
+	color: #01a8d2; }
+
+	#sezon1 {
+		
+	}
+
+	#video1 {
+		float: none;
+		padding: 8px 40px 30px 120px;
+		margin: 0px;
+		background-color:#00858c;
+	
+
+	}
+	
